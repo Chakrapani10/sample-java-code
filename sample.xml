@@ -4,6 +4,7 @@
 <groupId>com.example</groupId>
 <artifactId>simple-java-app</artifactId>
 <version>1.0</version>
+<version 6.0>  
 <packaging>jar</packaging>
 <!--  JAR packaging  -->
 <properties>
